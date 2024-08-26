@@ -1,0 +1,5 @@
+{
+  "type": "module",
+  "name": "Meme Generator",
+  "entry": "./src/main.js"
+}
